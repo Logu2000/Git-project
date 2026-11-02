@@ -1,3 +1,5 @@
 Git and github learing techpanda
 
-Today i learn git commands like status, add, push, commit log 
+Date:02-11-2026
+
+Today i learn git commands like git status, add, push, commit log 
